@@ -7,7 +7,6 @@
 - **프로젝트명**: ESG 데이터 기반 협력사 관리 및 리스크 대응 서비스
 - **개발 기간**: 2025.05.02 ~ 2025.05.20
 - **수행 방식**: **팀 프로젝트** (6명 - **김동환(팀장)**, 박창현, 김지현, 한광구, 이돈민, 지희연)
-- GitHub: [https://github.com/orgs/NextSpringMysqlMSA/repositories](https://github.com/orgs/NextSpringMysqlMSA/repositories)
 
 ## 프로젝트 상세
 
@@ -57,7 +56,7 @@
 
 ## AWS 아키텍처
 
-![AWS 구조도.png](/Users/donghwan/Documents/code/ESGProject_2/backend/ESG-project2-submodule/images/AWS구조도.png)
+![AWS 구조도.png](images/AWS구조도.png)
 
 ## EKS 클러스터와 AWS Fargate 도입
 
