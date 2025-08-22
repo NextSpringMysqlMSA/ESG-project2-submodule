@@ -1,0 +1,33 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/NextSpringMysqlMSA/frontend.git
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/NextSpringMysqlMSA/auth-service.git
+[submodule "config-service"]
+	path = config-service
+	url = https://github.com/NextSpringMysqlMSA/config-service.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/NextSpringMysqlMSA/gateway-service.git
+[submodule "dashboard-service"]
+	path = dashboard-service
+	url = https://github.com/NextSpringMysqlMSA/dashboard-service.git
+[submodule "discovery-service"]
+	path = discovery-service
+	url = https://github.com/NextSpringMysqlMSA/discovery-service.git
+[submodule "gri-service"]
+	path = gri-service
+	url = https://github.com/NextSpringMysqlMSA/gri-service.git
+[submodule "dart-service"]
+	path = dart-service
+	url = https://github.com/NextSpringMysqlMSA/dart-service.git
+[submodule "tcfd-service"]
+	path = tcfd-service
+	url = https://github.com/NextSpringMysqlMSA/tcfd-service.git
+[submodule "csdd-service"]
+	path = csdd-service
+	url = https://github.com/NextSpringMysqlMSA/csdd-service.git
+[submodule "config-properties"]
+	path = config-properties
+	url = https://github.com/NextSpringMysqlMSA/config-properties.git
